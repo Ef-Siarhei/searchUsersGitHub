@@ -4,7 +4,7 @@
 
 ### Link to application deploy
 
-https://fimaysa.github.io/searchUsersGitHub/
+https://ef-siarhei.github.io/searchUsersGitHub/
 ***
 
 ### With this application you can find any user of the GitHub website by his login.
